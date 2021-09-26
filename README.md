@@ -1,3 +1,8 @@
+# Pequena Descrição do Projeto:
+
+Criando uma tela de login em ReactJs com autenticação em Nodejs.
+Usei localStorage para setar token. Função isLogged para alterar entre a ela de login e home caso esteja logado, ou retorno ao login em caso de não logado. Usei Redirect. Rotas privadas etc.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
